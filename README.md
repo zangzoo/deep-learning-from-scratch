@@ -19,3 +19,4 @@
 
 ### 참고자료
 https://github.com/WegraLee/deep-learning-from-scratch
+https://github.com/youbeebee/deeplearning_from_scratch
