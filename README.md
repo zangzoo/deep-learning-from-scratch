@@ -20,7 +20,7 @@
 | 📚 **Chapter** | 📅 **발표일** | 🧑‍🏫 **발표자** | 📝 **기록 및 질문 링크** |
 | --- | --- | --- | --- |
 | **3장** | 2024.09.18 | 미정 | [스터디 기록 및 질문 링크](#) |
-| **4장** | 2024.09.30 | [문소연](https://github.com/dotz0ver) | [스터디 기록 및 질문 링크](#) |
+| **4장** | 2024.09.30 | [문소연](https://github.com/dotz0ver) | [스터디 기록 및 질문 링크](https://github.com/dotz0ver/deep-learning-from-scratch/blob/main/QnA/4%EA%B0%95%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%ED%95%99%EC%8A%B5.md) |
 | **5장** | 2024.10.13 | [송여경](https://github.com/0gonge) | [스터디 기록 및 질문 링크](#) |
 | **6장** | [발표 예정일] | [장지우](https://github.com/zangzoo) | [스터디 기록 및 질문 링크](#) |
 
