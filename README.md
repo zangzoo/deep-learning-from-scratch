@@ -1,6 +1,6 @@
 # deep-learning-from-scratch
 📖 밑바닥부터 시작하는 딥러닝 책 TIL 스터디
-
+[test](https://rocky-passive-c54.notion.site/Level-2-Object-Detection-Report-1b6bc191aef1431bb8cc4de518784b4a?pvs=4)
 ## 개요
 - 2024.09.09 ~
 - 매주 일요일 23:00 진행
